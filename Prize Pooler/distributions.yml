@@ -1,0 +1,67 @@
+Soldier Monthly:
+  Platinum:
+    share: 30
+    distribution:
+      - 35
+      - 24
+      - 15
+      - 10
+      - 4
+      - 4
+      - 4
+      - 4
+  Gold:
+    share: 20
+    distribution:
+      - 35
+      - 24
+      - 15
+      - 10
+      - 4
+      - 4
+      - 4
+      - 4
+  Silver:
+    share: 17.5
+    distribution:
+      - 35
+      - 24
+      - 15
+      - 10
+      - 4
+      - 4
+      - 4
+      - 4
+  Bronze:
+    share: 15
+    distribution:
+      - 25
+      - 19
+      - 14
+      - 10
+      - 8
+      - 8
+      - 8
+      - 8
+  Steel:
+    share: 10
+    distribution:
+      - 18
+      - 18
+      - 12
+      - 12
+      - 10
+      - 10
+      - 10
+      - 10
+  Wood:
+    share: 7.5
+    distribution:
+      - 18
+      - 18
+      - 12
+      - 12
+      - 10
+      - 10
+      - 10
+      - 10
