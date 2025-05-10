@@ -36,13 +36,13 @@ Soldier Monthly:
     share: 12.5
     distribution:
       - 25
-      - 19
-      - 14
-      - 10
+      - 20
+      - 15
+      - 12
       - 8
       - 8
-      - 8
-      - 8
+      - 6
+      - 6
   Steel:
     share: 10
     distribution:
